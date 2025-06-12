@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <h1>boiler plate</h1>
+      <router-view /> 
 </template>
 
 <style scoped></style>
